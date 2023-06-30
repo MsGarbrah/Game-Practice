@@ -1,0 +1,34 @@
+[
+    {
+        "image": "../pictures/aston-martin.png",
+        "name": "aston martin"
+    },
+    {
+        "image": "../pictures/bmw.png",
+        "name": "bmw"
+    },
+    {
+        "image": "../pictures/corvette.png",
+        "name": "corvette"
+    },
+    {
+        "image": "../pictures/ferrari.png",
+        "name": "ferrari"
+    },
+    {
+        "image": "../pictures/g-wagon.png",
+        "name": "g wagon"
+    },
+    {
+        "image": "../pictures/lambo.png",
+        "name": "lambo"
+    },
+    {
+        "image": "../pictures/mclaren.png",
+        "name": "mclaren"
+    },
+    {
+        "image": "../pictures/porsche.png",
+        "name": "porsche"
+    }
+]
